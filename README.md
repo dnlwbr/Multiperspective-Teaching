@@ -1,6 +1,6 @@
 # Multiperspective Teaching of Unknown Objects via Shared-gaze-based Multimodal Human-Robot Interaction
 
-Project page for "Multiperspective Teaching of Unknown Objects via Shared-gaze-based Multimodal Human-Robot Interaction", Weber et al., HRI23, with links to all subcomponents.
+Project page for "Multiperspective Teaching of Unknown Objects via Shared-gaze-based Multimodal Human-Robot Interaction", Weber et al., HRI23, with links to all subcomponents. [[Paper]](https://doi.org/10.1145/3568162.3578627) [[arXiv]](https://doi.org/10.48550/arXiv.2303.00423)
 
 Components:
 - [Human-Robot AR Interface](https://github.com/dnlwbr/Human-Robot-AR-Interface)
